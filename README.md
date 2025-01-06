@@ -5,3 +5,5 @@
 - 将内容复制入 [T.txt](T.txt) 中。
 - 启动脚本 [TouGe.py](TouGe.py) 即可排版生成`.md`格式的题目。
 - 如果需要 ChatGPT 生成答案请使用 [TouGeAnwser.py](TouGeAnwser.py)，记得替换`API 密钥`以及`自定义URL地址`。
+
+> 本项目遵守 [MIT](LICENSE) 协议，有用的话留下一个 **Star** 吧！
